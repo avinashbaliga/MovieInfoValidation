@@ -1,4 +1,4 @@
-# Movie Information Validation (with Parallel Execution)
+# Movie Information Validation
 ## How to run:
 - Import/clone the project into IntelliJ or any other IDE.
 - Open [POM.xml](pom.xml) and make sure that all the dependencies are downloaded.
